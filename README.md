@@ -26,5 +26,5 @@ _exemples :_
 
 ## Auteurs
 Listez le(s) auteur(s) du projet ici !
-* **Nicolas J--D** _alias_ [@Rundredoffi](https://github.com/Rundredoffi)
+* **Nicolas J--D** _alias_ [@njouinde](https://github.com/njouinde)
 * **Alessio F.** _alias_ [@AlessFr1](https://github.com/AlessFr1)
