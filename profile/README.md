@@ -1,4 +1,4 @@
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]()  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)]()
 
 Harbor Cleaner est le projet d'une barque permet de récolter les déchets à la surface de l'eau des ports. Ce projet est un projet de fin d'année d'étudiant en STI2D.
 
